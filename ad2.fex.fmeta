@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rootObject _jt="IBFSMRObject" appName="yanakauser_e" binary="false" defaultLng="ja_JP" dummy="false" expireDate="0" length="0" type="FexFile">
+    <properties size="2">
+        <entry key="LastDescribed" value="1776915505031"/>
+        <entry key="tool" value="editor"/>
+    </properties>
+    <nlsValues _jt="HashMap">
+        <entry>
+            <key _jt="string" value="ja_JP"/>
+            <value _jt="ArrayList" size="1">
+                <item _jt="string" index="0" value="ad2"/>
+            </value>
+        </entry>
+    </nlsValues>
+    <fexParameters _jt="ArrayList" size="0"/>
+</rootObject>
